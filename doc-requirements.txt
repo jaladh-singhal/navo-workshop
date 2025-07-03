@@ -1,6 +1,6 @@
 # Doc and testing requirements
 sphinx
-myst-nb>=0.14
+git+https://github.com/jaladh-singhal/MyST-NB.git@677-scroll-output-config#egg=myst-nb
 sphinx-book-theme
 sphinx-copybutton
 nbval
